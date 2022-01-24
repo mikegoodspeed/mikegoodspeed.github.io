@@ -1,0 +1,10 @@
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
+.card {
+  padding: 8rem 0;
+}
